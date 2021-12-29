@@ -1,6 +1,6 @@
 # ICS2O7
 
-Repository containing my homework for ICS2O7, test are not included for obvious reasons  
+Repository containing my homework for ICS2O7, tests & quizzes are not included for obvious reasons  
 
 If there is a missing lesson I probably forgot to upload it or it doesn't exist, same goes with questions  
 
